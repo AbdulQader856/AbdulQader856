@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Qader Kagzi</h1>
-<h3 align="center">A passionate Polyglot Developer from India</h3>
+<h3 align="center">A passionate Polyglot/Web Developer from India</h3>
 
-- 🔭 I’m currently working on : **PixelMart**
+- 🔭 I’m currently working on : **Digital Business Card**
 
 - 🌱 I’m currently learning : **MERN Stack**
 
